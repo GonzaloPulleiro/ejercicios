@@ -1,4 +1,4 @@
-package eighth;
+package Sencillos.eighth;
 
 /*
  * Crea un programa que pida al usuario una frase.

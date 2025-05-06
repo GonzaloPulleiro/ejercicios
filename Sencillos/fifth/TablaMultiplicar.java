@@ -1,4 +1,4 @@
-package fifth;
+package Sencillos.fifth;
 
 /*
  * Crea un programa que pida al usuario un número
